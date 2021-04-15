@@ -1,0 +1,18 @@
+.grid{
+
+    display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+    width: 600px;
+}
+
+.grid img {
+    height:120px;
+    width: 120;
+}
+
+body{
+    background-image: url('./imagens/angew.png ');
+    background-repeat: no-repeat;
+    background-position: 110% 50%;
+}
